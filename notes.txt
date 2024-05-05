@@ -1,0 +1,73 @@
+ {
+[        ] I/flutter (31412): │ 🐛     "id": 32,
+[        ] I/flutter (31412): │ 🐛     "title": "خطر يرجى الحذر",
+[        ] I/flutter (31412): │ 🐛     "body": "من يصادف هذا المخلوق عليه الفرار بجلده 🤣🤣",
+[        ] I/flutter (31412): │ 🐛     "image": "https://ebnbalady.widespace.tech/storage/posts/32/faMlAI6EtPk6299kiFONW7k5jPSyHyslZW766PUh.jpg",
+[        ] I/flutter (31412): │ 🐛     "created_at": "2022-10-05T10:59:26.000000Z",
+[        ] I/flutter (31412): │ 🐛     "updated_at": "2022-10-05T10:59:26.000000Z",
+[        ] I/flutter (31412): │ 🐛     "is_liked": true,
+[        ] I/flutter (31412): │ 🐛     "total_likes": 1,
+[        ] I/flutter (31412): │ 🐛     "total_comments": 3,
+[        ] I/flutter (31412): │ 🐛     "recently_comments": [
+[        ] I/flutter (31412): │ 🐛       {
+[        ] I/flutter (31412): │ 🐛         "id": 97,
+[        ] I/flutter (31412): │ 🐛         "body": "hello",
+[        ] I/flutter (31412): │ 🐛         "is_upvoted": false,
+[        ] I/flutter (31412): │ 🐛         "is_downvoted": false,
+[        ] I/flutter (31412): │ 🐛         "total_upvotes": 0,
+[        ] I/flutter (31412): │ 🐛         "total_downvotes": 0,
+[        ] I/flutter (31412): │ 🐛         "user": {
+[        ] I/flutter (31412): │ 🐛           "id": 1,
+[        ] I/flutter (31412): │ 🐛           "avatar": "https://ebnbalady.widespace.tech/storage/users/1/bUdit7w2q7sc5paV8s4ZIkP5TjAP18L6hOTqrDnK.jpg",
+[        ] I/flutter (31412): │ 🐛           "username": "@OmarTaha",
+[        ] I/flutter (31412): │ 🐛           "first_name": "Omar",
+[        ] I/flutter (31412): │ 🐛           "middle_name": "Taha",
+[        ] I/flutter (31412): │ 🐛           "last_name": "Alfaqeer",
+[        ] I/flutter (31412): │ 🐛           "gender": "Male",
+[        ] I/flutter (31412): │ 🐛           "phones": [
+[        ] I/flutter (31412): │ 🐛             "733630142"
+[        ] I/flutter (31412): │ 🐛           ],
+[        ] I/flutter (31412): │ 🐛           "email": "a.777118407@gmail.com",
+[        ] I/flutter (31412): │ 🐛           "email_verified_at": null,
+[        ] I/flutter (31412): │ 🐛           "created_at": "2022-09-19T11:04:06.000000Z",
+[        ] I/flutter (31412): │ 🐛           "updated_at": "2022-10-26T09:10:40.000000Z",
+[        ] I/flutter (31412): │ 🐛           "total_posts": 22,
+[        ] I/flutter (31412): │ 🐛           "total_comments": 49,
+[        ] I/flutter (31412): │ 🐛           "total_reviews": 0,
+[        ] I/flutter (31412): │ 🐛           "statictics": {
+[        ] I/flutter (31412): │ 🐛             "level": 1,
+[        ] I/flutter (31412): │ 🐛             "progress": 0.5,
+[        ] I/flutter (31412): │ 🐛             "neckname": "Foo",
+[        ] I/flutter (31412): │ 🐛             "achivments": [],
+[        ] I/flutter (31412): │ 🐛             "rating": null
+[        ] I/flutter (31412): │ 🐛           }
+[        ] I/flutter (31412): │ 🐛         },
+[        ] I/flutter (31412): │ 🐛         "created_at": "2022-11-02T09:08:39.000000Z",
+[        ] I/flutter (31412): │ 🐛         "updated_at": "2022-11-02T09:08:39.000000Z"
+[        ] I/flutter (31412): │ 🐛       },
+
+
+"id": 1,
+"avatar": "https://ebnbalady.widespace.tech/storage/users/1/bUdit7w2q7sc5paV8s4ZIkP5TjAP18L6hOTqrDnK.jpg",
+"username": "@OmarTaha",
+"first_name": "Omar",
+"middle_name": "Taha",
+"last_name": "Alfaqeer",
+"gender": "Male",
+"phones": [
+  "733630142"
+],
+"email": "a.777118407@gmail.com",
+"email_verified_at": null,
+"created_at": "2022-09-19T11:04:06.000000Z",
+"updated_at": "2022-10-26T09:10:40.000000Z",
+"total_posts": 22,
+"total_comments": 49,
+"total_reviews": 0,
+"statictics": {
+  "level": 1,
+  "progress": 0.5,
+  "neckname": "Foo",
+  "achivments": [],
+  "rating": null
+}

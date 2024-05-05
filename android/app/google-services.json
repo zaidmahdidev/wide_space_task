@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "958273223528",
+    "project_id": "ebn-balady",
+    "storage_bucket": "ebn-balady.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958273223528:android:0b93810929b76573f6b4dd",
+        "android_client_info": {
+          "package_name": "com.example.ebn_balady"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958273223528-ig18e45rbpqlj5rbo8gmlkumv8mhi4lv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaCM_aAQJNp7n81eLTztfjFAEb1pWnq40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958273223528-ig18e45rbpqlj5rbo8gmlkumv8mhi4lv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
